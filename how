@@ -1,0 +1,60 @@
+[33mcommit 8baad7b89453896b1f16d8b5817f5d720fb18c32[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Cristina Serbanescu <sicristina@yahoo.com>
+Date:   Thu Feb 28 09:07:15 2019 +0200
+
+    Initial testTest content
+
+[33mcommit f378bf0753f25d8d0d5eeb8769167be0cc6cc808[m
+Author: Cristina Serbanescu <sicristina@yahoo.com>
+Date:   Wed Feb 27 14:29:24 2019 +0200
+
+    Add initial content for gitignore file
+
+[33mcommit f0ac618e795c4ac81dc80da435424f948e1efcf2[m[33m ([m[1;33mtag: r1[m[33m)[m
+Merge: ebd680f bcb9a1c
+Author: CristinaSerbanescu <48048632+CristinaSerbanescu@users.noreply.github.com>
+Date:   Wed Feb 27 14:19:30 2019 +0200
+
+    Merge pull request #2 from CristinaSerbanescu/WifesList
+    
+    This is my wife shopping list
+
+[33mcommit bcb9a1cd04d884c487f707ffa6ca2cc2fa135ef2[m[33m ([m[1;31morigin/WifesList[m[33m, [m[1;32mWifesList[m[33m)[m
+Merge: 58e9ab5 ebd680f
+Author: Cristina Serbanescu <sicristina@yahoo.com>
+Date:   Wed Feb 27 14:07:08 2019 +0200
+
+    Merge remote-tracking branch 'origin/master' into WifesList
+
+[33mcommit 58e9ab5e06b7d72f08073f44c2a362320274ac98[m
+Author: Cristina Serbanescu <sicristina@yahoo.com>
+Date:   Wed Feb 27 13:50:38 2019 +0200
+
+    This is my wife shopping list
+
+[33mcommit ebd680f19ffa80ce7844c20d2fc0b53e249ab219[m
+Merge: fa230dc 778d610
+Author: CristinaSerbanescu <48048632+CristinaSerbanescu@users.noreply.github.com>
+Date:   Wed Feb 27 12:23:12 2019 +0200
+
+    Merge pull request #1 from CristinaSerbanescu/MothersList
+    
+    My mother's needs from grocery store
+
+[33mcommit 778d610e085839d4ad5da317f29d562e6a96d433[m[33m ([m[1;31morigin/MothersList[m[33m, [m[1;32mMothersList[m[33m)[m
+Author: Cristina Serbanescu <sicristina@yahoo.com>
+Date:   Wed Feb 27 12:06:42 2019 +0200
+
+    My mother's needs from grocery store
+
+[33mcommit fa230dcb586f363a30e55f5d5ae1d0536c28c741[m
+Author: Cristina Serbanescu <sicristina@yahoo.com>
+Date:   Wed Feb 27 11:53:57 2019 +0200
+
+    first commit
+
+[33mcommit fbe93ff57e2ac1fe1abc0d297a3bda7053140254[m
+Author: Cristina Serbanescu <Cristina.Serbanescu@endava.com>
+Date:   Wed Feb 27 10:59:53 2019 +0200
+
+    first commit
